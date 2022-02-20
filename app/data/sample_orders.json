@@ -1,0 +1,82 @@
+[
+  {
+    "order_id": "A1001",
+    "region": "us-east",
+    "category": "analytics",
+    "units": 120,
+    "revenue": 5400.50,
+    "order_ts": "2024-01-03T10:14:00Z"
+  },
+  {
+    "order_id": "A1002",
+    "region": "us-west",
+    "category": "monitoring",
+    "units": 75,
+    "revenue": 3120.00,
+    "order_ts": "2024-01-05T08:51:00Z"
+  },
+  {
+    "order_id": "A1003",
+    "region": "eu-central",
+    "category": "data-pipeline",
+    "units": 200,
+    "revenue": 9200.35,
+    "order_ts": "2024-01-08T16:05:00Z"
+  },
+  {
+    "order_id": "A1004",
+    "region": "us-east",
+    "category": "analytics",
+    "units": 65,
+    "revenue": 2500.75,
+    "order_ts": "2024-01-12T11:47:00Z"
+  },
+  {
+    "order_id": "A1005",
+    "region": "ap-south",
+    "category": "monitoring",
+    "units": 130,
+    "revenue": 4888.10,
+    "order_ts": "2024-01-15T07:22:00Z"
+  },
+  {
+    "order_id": "A1006",
+    "region": "eu-central",
+    "category": "analytics",
+    "units": 180,
+    "revenue": 8300.90,
+    "order_ts": "2024-01-19T09:33:00Z"
+  },
+  {
+    "order_id": "A1007",
+    "region": "us-west",
+    "category": "data-pipeline",
+    "units": 95,
+    "revenue": 3985.00,
+    "order_ts": "2024-01-25T13:59:00Z"
+  },
+  {
+    "order_id": "A1008",
+    "region": "us-east",
+    "category": "ai-platform",
+    "units": 210,
+    "revenue": 11050.00,
+    "order_ts": "2024-01-28T15:40:00Z"
+  },
+  {
+    "order_id": "A1009",
+    "region": "ap-south",
+    "category": "data-pipeline",
+    "units": 160,
+    "revenue": 6400.25,
+    "order_ts": "2024-02-02T06:20:00Z"
+  },
+  {
+    "order_id": "A1010",
+    "region": "us-west",
+    "category": "analytics",
+    "units": 140,
+    "revenue": 5700.45,
+    "order_ts": "2024-02-04T19:07:00Z"
+  }
+]
